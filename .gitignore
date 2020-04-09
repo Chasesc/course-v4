@@ -1,6 +1,11 @@
 .gitconfig
 .gitattributes
 
+.DS_Store
+
+# Downloaded Images
+city/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
